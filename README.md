@@ -1,1 +1,2 @@
-# Olympic Data Visulization
+# Olympic Data Viz and Analysis
+
